@@ -1,8 +1,4 @@
-# React + Vite
+# Image Handler
+sometimes you just want to easily convert your images between formats without uploading them to some random server. wouldn't it be nice to simply drag and drop the files and download them with just one click? fast and simple.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+[online tool](https://imagehandler.netlify.app)
