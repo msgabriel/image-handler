@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    @apply bg-dark;
+    @apply text-light;
+    @apply text-center;
+  }
+}
+
+@font-face {
+  font-family: 'Cabinet Grotesk';
+  src: url('assets/CabinetGrotesk-Bold.woff2') format('woff2');
+  font-weight: bold;
+}
